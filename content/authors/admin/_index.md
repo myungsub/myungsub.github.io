@@ -3,7 +3,7 @@
 title: Myungsub Choi
 
 # Name pronunciation (optional)
-name_pronunciation: Myung-Sub
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Myungsub
@@ -11,7 +11,7 @@ last_name: Choi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
