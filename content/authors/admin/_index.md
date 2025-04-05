@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Myungsub Choi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Myung-Sub
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Myungsub
+last_name: Choi
 
 # Status emoji
 status:
@@ -20,92 +20,74 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Staff Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Samsung Electronics, AI Center
+    url: https://www.samsung-dsrecruit.com/recruits/division_intro/detail/ai_center.php
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:cms6539@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/MyungsubChoi
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/myungsub
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/myungsub-choi/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=8devizUAAAAJ
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - AI Agents
+  - LLM / RAG
+  - Computer Vision
+  
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Electrical Engineering and Computer Science
+    institution: Seoul National University
+    date_start: 2013-03-01
+    date_end: 2021-02-28
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Electrical Engineering and Computer Science
+    institution: Seoul National University
+    date_start: 2009-03-01
+    date_end: 2013-02-28
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.48/4.30
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Staff Engineer
+    company_name: Samsung Electronics, DS Division, AI Center (*formerly SAIT, AI Research Center*)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-05-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - AI Agent (Jun 2024 – Present): Built a multimodal Retrieval‑Augmented Generation (RAG) application for internal knowledge management, improving efficiency in accessing distributed information across teams.
+      - AI ISP (Jan 2024 ‑ May 2024): Designed and trained a natural language‑based Image Quality Assessment (IQA) model, enabling intuitive and context‑aware image evaluations.
+      - AI ISP (May 2022 ‑ Dec 2023): Developed an efficient dual‑pixel autofocus model optimized for low‑light environments, improving focusing speed and accuracy.
+  - position: Visiting Researcher
+    company_name: Google Research
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-04-25
+    date_end: 2022-04-24
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Conducted research on vision‑language models for controllable image editing guided by natural language instructions.
+      - Proposed a novel approach using conditional classifier‑free guidance to enhance editing fidelity and semantic alignment. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -144,11 +126,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Korean
     percent: 75
-  - name: Portuguese
-    percent: 25
-
+  
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -183,4 +163,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Staff Engineer at Samsung AI Center, where I lead a small team working on building multimodal retrieval-augmented generation applications for internal knowledge management. I received Ph.D. at [Computer Vision Lab](https://cv.snu.ac.kr/), Seoul National University under the supervision of [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/).
+I like discovering new insights from ambiguous problems and translating complex technical ideas into practical solutions.
