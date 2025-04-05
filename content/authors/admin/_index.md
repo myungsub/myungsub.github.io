@@ -59,7 +59,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc Electrical Engineering and Computer Science
+  - area: BEng Electrical Engineering and Computer Science
     institution: Seoul National University
     date_start: 2009-03-01
     date_end: 2013-02-28
@@ -87,7 +87,17 @@ work:
     summary: |
       Responsibilities include:
       - Conducted research on vision‑language models for controllable image editing guided by natural language instructions.
-      - Proposed a novel approach using conditional classifier‑free guidance to enhance editing fidelity and semantic alignment. 
+      - Proposed a novel approach using conditional classifier‑free guidance to enhance editing fidelity and semantic alignment.
+  - position: Research Intern
+    company_name: Snap Inc.
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-05-28
+    date_end: 2018-08-24
+    summary: |
+      Responsibilities include:
+      - Developed deep learning models for efficient and high‑quality video frame interpolation.
+      - Designed and implemented the SNU‑FILM benchmark dataset for analytic evaluation.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
