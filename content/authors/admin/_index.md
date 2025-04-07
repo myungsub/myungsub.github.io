@@ -55,10 +55,12 @@ education:
     date_start: 2013-03-01
     date_end: 2021-02-28
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Integrated Master & Ph.D in EECS. <br>
+      Thesis: _Test‑Time Adaptation Methods for Video Frame Interpolation_. <br>
+      Supervised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/)
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: BEng Electrical Engineering and Computer Science
     institution: Seoul National University
     date_start: 2009-03-01
@@ -104,71 +106,75 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+      - name: Programming
+        description: 'Python, C++, MATLAB'
+        # percent: 80
+        icon: devicon/python  # code-bracket
+      - name: DL Frameworks & Libraries
+        description: 'PyTorch, TensorFlow, Hugging Face'
+        icon: devicon/pytorch
+      - name: LLM Apps & Deployment
+        description: 'vLLM, FastAPI, ElasticSearch, Gradio'
+        # percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
+      - name: Sports
+        description: 'I like playing all kinds of sports except soccer.'
+        # percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Music
+        description: 'I like classics. I also play flute and piano.'
+        # percent: 100
+        icon: hero/musical-note
+      - name: Reading
+        description: 'I like reading books, blog posts, etc.'
+        # percent: 80
+        icon: hero/book-open
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Korean
-    percent: 75
+    percent: 100
   
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Outstanding Project(Paper) Award
+    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    # certificate_url: https://www.datacamp.com
+    date: '2022-11-01'
+    awarder: Hyungdai NGV (Next Generation Vehicle)
+    # icon: datacamp
+    # summary: |
+    #   Object-oriented
+  - title: Bronze Prize, The 27th HumanTech Paper Award
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2021-02-09'
+    awarder: Samsung Electronics
+    # icon: hero/academic-cap
+    # summary: |
+    #   I studied the foundational concept of ...
+  - title: Outstanding Project Award, VTT 2020 Research Highlights
+    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2020-10-30'
+    awarder: Korean Ministry of Science and ICT
+    # icon: edx
+    # summary: |
+    #   Learned:
+  - title: Runner-Up (2nd Place) Award, AIM 2019 Challenge on Video Temporal Super‑Resolution
+    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    # certificate_url: https://www.datacamp.com
+    date: '2019-11-02'
+    awarder: Advances in Image Manipulation Workshop (ICCV 2019)
+    # icon: datacamp
+    # summary: |
+    #   Object-oriented
 ---
 
 ## About Me
