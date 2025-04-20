@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Myungsub Choi"
-date: 2025-04-06
+date: 2025-04-20
 type: landing
 
 design:
@@ -30,6 +30,19 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: resume-experience
+    id: experience # Add an ID to link to this section
+    content:
+      title: Experience # Add a title for the section
+      username: admin
+      # Hugo date format
+      date_format: 'Jan 2006'
+      # Education or Experience section first?
+      is_education_first: false
+    design:
+      # Optional: Adjust spacing specific to this section
+      spacing:
+        padding: ["6rem", "0", "6rem", "0"] # top, right, bottom, left
   - block: collection
     content:
       title: Recent Publications
