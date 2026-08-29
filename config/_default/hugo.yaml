@@ -52,5 +52,14 @@ markup:
     lineNos: false
 security:
   _merge: deep
+  exec:
+    allow:
+      - ^(dart-)?sass(-embedded)?$
+      - ^go$
+      - ^git$
+      - ^npx$
+      - ^postcss$
+      - ^tailwindcss$
+      - ^node$
 sitemap:
   _merge: deep

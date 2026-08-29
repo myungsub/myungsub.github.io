@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/myungsub/myungsub.github.io#readme",
   "dependencies": {
-    "@tailwindcss/cli": "^4.1.13",
-    "@tailwindcss/typography": "^0.5.19",
-    "tailwindcss": "^4.1.13"
+    "@tailwindcss/cli": "^4.3.3",
+    "@tailwindcss/typography": "^0.5.20",
+    "tailwindcss": "^4.3.3"
   }
 }
