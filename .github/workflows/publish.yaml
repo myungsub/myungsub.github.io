@@ -1,7 +1,8 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.136.5'
+  WC_HUGO_VERSION: '0.150.0'
+  NODE_VERSION: '22'
 
 on:
   # Trigger the workflow every time you push to the `main` branch
@@ -31,8 +32,15 @@ jobs:
       with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ env.NODE_VERSION }}
+        cache: 'npm'
+    - name: Install Tailwind dependencies
+      run: npm ci
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
+      uses: peaceiris/actions-hugo@v3
       with:
         hugo-version: ${{ env.WC_HUGO_VERSION }}
         extended: true

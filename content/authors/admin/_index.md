@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Staff Engineer
+role: Head of AI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Samsung Electronics, AI Center
-    url: https://www.samsung-dsrecruit.com/recruits/division_intro/detail/ai_center.php
+  - name: Tynapse
+    url: https://tynapse.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -45,9 +45,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
+  - AI Trust & Safety
   - AI Agents
   - LLM / RAG
-  - Computer Vision
   
 education:
   - area: PhD Electrical Engineering and Computer Science
@@ -69,15 +69,23 @@ education:
       GPA: 3.48/4.30
 
 work:
+  - position: Head of AI
+    company_name: Tynapse
+    company_url: 'https://tynapse.com/'
+    company_logo: ''
+    date_start: 2025-10-01
+    date_end: ''
+    summary: |2-
+      Leading research on AI trust and safety, building real-time monitoring and governance solutions for autonomous AI agents.
   - position: Staff Engineer
     company_name: Samsung Electronics, DS Division, AI Center (*formerly SAIT, AI Research Center*)
     company_url: ''
     company_logo: ''
     date_start: 2022-05-01
-    date_end: ''
+    date_end: 2025-09-15
     summary: |2-
       Responsibilities include:
-      - AI Agent (Jun 2024 – Present): Built a multimodal Retrieval‑Augmented Generation (RAG) application for internal knowledge management, improving efficiency in accessing distributed information across teams.
+      - AI Agent (Jun 2024 – Sep 2025): Built a multimodal Retrieval‑Augmented Generation (RAG) application for internal knowledge management, improving efficiency in accessing distributed information across teams.
       - AI ISP (Jan 2024 ‑ May 2024): Designed and trained a natural language‑based Image Quality Assessment (IQA) model, enabling intuitive and context‑aware image evaluations.
       - AI ISP (May 2022 ‑ Dec 2023): Developed an efficient dual‑pixel autofocus model optimized for low‑light environments, improving focusing speed and accuracy.
   - position: Visiting Researcher
@@ -179,5 +187,5 @@ awards:
 
 ## About Me
 
-I am a Staff Engineer at Samsung AI Center, where I lead a small team working on building multimodal retrieval-augmented generation applications for internal knowledge management. I received Ph.D. at [Computer Vision Lab](https://cv.snu.ac.kr/), Seoul National University under the supervision of [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/).
+I am the Head of AI at [Tynapse](https://tynapse.com/), where I lead research on AI trust and safety for autonomous AI agents. Previously, I was a Staff Engineer at Samsung AI Center, building multimodal RAG applications for internal knowledge management. I received Ph.D. at [Computer Vision Lab](https://cv.snu.ac.kr/), Seoul National University under the supervision of [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/).
 I like discovering new insights from ambiguous problems and translating complex technical ideas into practical solutions.
