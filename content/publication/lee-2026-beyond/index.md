@@ -3,7 +3,7 @@ title: 'Beyond the Verdict: Evidence-Aligned Evaluation of Visual Prompt-Injecti
 authors:
 - Suyoung Lee
 - Myungsub Choi
-date: '2026-08-09'
+date: '2026-09-08'
 publishDate: '2026-08-29T12:00:00.000000Z'
 publication_types:
 - paper-conference
