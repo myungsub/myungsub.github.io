@@ -11,4 +11,4 @@ tags:
   - ECCV
 ---
 
-[2nd Workshop on Benchmarking Evidence-Aligned Multimodal Reasoning (BEAM 2)](https://beamv2-eccv-workshop.github.io/) at ECCV 2026 @ Malmö, Sweden. To be presented on September 8, 2026.
+[2nd Workshop on Benchmarking Evidence-Aligned Multimodal Reasoning (BEAM 2)](https://beamv2-eccv-workshop.github.io/) at ECCV 2026 @ Malmö, Sweden. Presented as an oral talk on September 8, 2026.
