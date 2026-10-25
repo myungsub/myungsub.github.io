@@ -11,4 +11,4 @@ tags:
   - ICML
 ---
 
-[Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD)](https://agentwild-workshop.github.io/icml2026/) at ICML 2026 @ Seoul, Korea.
+[Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD)](https://agentwild-workshop.github.io/icml2026/) at ICML 2026 @ Seoul, Korea. Presented as a poster on July 11, 2026.

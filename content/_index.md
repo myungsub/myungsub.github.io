@@ -54,6 +54,17 @@ sections:
     design:
       view: citation
   - block: collection
+    id: talks
+    content:
+      title: Talks
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - events
+    design:
+      view: date-title-summary
+  - block: collection
     id: news
     content:
       title: Recent News

@@ -78,7 +78,7 @@ work:
     summary: |2-
       Leading research on AI trust and safety, building real-time monitoring and governance solutions for autonomous AI agents.
   - position: Staff Engineer
-    company_name: Samsung Electronics, DS Division, AI Center (*formerly SAIT, AI Research Center*)
+    company_name: Samsung Electronics, DS Division, AI Center (formerly SAIT, AI Research Center)
     company_url: ''
     company_logo: ''
     date_start: 2022-05-01
@@ -157,7 +157,7 @@ awards:
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     # certificate_url: https://www.datacamp.com
     date: '2022-11-01'
-    awarder: Hyungdai NGV (Next Generation Vehicle)
+    awarder: Hyundai NGV (Next Generation Vehicle)
     # icon: datacamp
     # summary: |
     #   Object-oriented

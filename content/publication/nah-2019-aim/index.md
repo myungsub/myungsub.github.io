@@ -18,4 +18,11 @@ publication_types:
 - paper-conference
 publication: '*2019 IEEE/CVF International Conference on Computer Vision Workshop
   (ICCVW)*'
+links:
+- type: pdf
+  url: https://arxiv.org/pdf/2005.01233
+- type: preprint
+  url: https://arxiv.org/abs/2005.01233
+- type: doi
+  url: https://doi.org/10.1109/ICCVW.2019.00421
 ---

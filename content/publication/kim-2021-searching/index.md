@@ -11,4 +11,11 @@ publishDate: '2025-04-05T13:15:22.858093Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the IEEE/CVF International Conference on Computer Vision*'
+links:
+- type: pdf
+  url: https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Searching_for_Controllable_Image_Restoration_Networks_ICCV_2021_paper.pdf
+- type: preprint
+  url: https://arxiv.org/abs/2012.11225
+- type: doi
+  url: https://doi.org/10.1109/iccv48922.2021.01397
 ---

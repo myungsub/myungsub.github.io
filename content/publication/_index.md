@@ -9,4 +9,10 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+# The theme shows venue/type details only for pages of type "publications".
+cascade:
+  - target:
+      kind: page
+    type: publications
 ---
