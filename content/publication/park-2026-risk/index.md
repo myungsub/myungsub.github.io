@@ -2,7 +2,7 @@
 title: 'Risk Is Not Review Value: Wrong-Answer Exposure Under Bounded Review Budgets'
 authors:
 - SangJin Park
-- Myungsub Choi
+- admin
 - Jineok Kim
 - Minseung Kang
 date: '2026-08-10'

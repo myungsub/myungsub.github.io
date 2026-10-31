@@ -9,7 +9,7 @@ authors:
 - Ze Pan
 - Xiangyu Xu
 - Wenxiu Sun
-- Myungsub Choi
+- admin
 - Heewon Kim
 - ' others'
 date: '2019-01-01'
