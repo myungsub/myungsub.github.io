@@ -10,14 +10,14 @@ main:
   - name: News
     url: /#news
     weight: 11
-  - name: Experience
-    url: /#experience
-    weight: 12
   - name: Publications
     url: publication/
-    weight: 13
+    weight: 12
   - name: Talks
     url: /#talks
+    weight: 13
+  - name: Experience
+    url: /#experience
     weight: 14
   - name: Projects
     url: projects/
