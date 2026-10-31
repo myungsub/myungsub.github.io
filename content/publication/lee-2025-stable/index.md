@@ -2,7 +2,7 @@
 title: Stable Autofocus with Focal Consistency Loss
 authors:
 - Sangwon Lee
-- Myungsub Choi
+- admin
 - Nagyeong Lee
 - Hyong-euk Lee
 date: '2025-01-01'

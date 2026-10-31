@@ -2,7 +2,7 @@
 title: Task-Aware Image Downscaling
 authors:
 - Heewon Kim
-- Myungsub Choi
+- admin
 - Bee Lim
 - Kyoung Mu Lee
 date: '2018-01-01'

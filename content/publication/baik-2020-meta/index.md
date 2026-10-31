@@ -2,7 +2,7 @@
 title: Meta-Learning with Adaptive Hyperparameters
 authors:
 - Sungyong Baik
-- Myungsub Choi
+- admin
 - Janghoon Choi
 - Heewon Kim
 - Kyoung Mu Lee

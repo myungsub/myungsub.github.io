@@ -3,7 +3,7 @@ title: Searching for Controllable Image Restoration Networks
 authors:
 - Heewon Kim
 - Sungyong Baik
-- Myungsub Choi
+- admin
 - Janghoon Choi
 - Kyoung Mu Lee
 date: '2021-01-01'
