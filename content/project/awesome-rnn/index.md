@@ -1,7 +1,9 @@
 ---
 title: awesome-rnn
 date: 2017-04-14
-external_link: https://github.com/kjw0612/awesome-rnn
+links:
+  - type: site
+    url: https://github.com/kjw0612/awesome-rnn
 tags:
   - Awesome
 ---
