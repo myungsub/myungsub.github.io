@@ -9,8 +9,8 @@ date: '2025-01-01'
 publishDate: '2025-04-05T20:48:13.631704Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the IEEE/CVF winter conference on applications of computer
-  vision*'
+publication: '*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)* (Oral)'
+publication_short: '*WACV 2025* (Oral)'
 links:
 - type: pdf
   url: https://openaccess.thecvf.com/content/WACV2025/papers/Lee_Stable_Autofocus_with_Focal_Consistency_Loss_WACV_2025_paper.pdf

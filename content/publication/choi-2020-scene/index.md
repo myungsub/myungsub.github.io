@@ -1,5 +1,5 @@
 ---
-title: Scene-adaptive video frame interpolation via meta-learning
+title: Scene-Adaptive Video Frame Interpolation via Meta-Learning
 authors:
 - Myungsub Choi
 - Janghoon Choi
@@ -10,8 +10,8 @@ date: '2020-01-01'
 publishDate: '2025-04-05T13:15:22.822712Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the IEEE/CVF conference on computer vision and pattern
-  recognition*'
+publication: '*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*'
+publication_short: '*CVPR 2020*'
 links:
 - type: pdf
   url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Scene-Adaptive_Video_Frame_Interpolation_via_Meta-Learning_CVPR_2020_paper.pdf

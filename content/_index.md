@@ -30,40 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: resume-experience
-    id: experience # Add an ID to link to this section
-    content:
-      title: Experience # Add a title for the section
-      username: admin
-      # Hugo date format
-      date_format: 'Jan 2006'
-      # Education or Experience section first?
-      is_education_first: false
-    design:
-      # Optional: Adjust spacing specific to this section
-      spacing:
-        padding: ["6rem", "0", "6rem", "0"] # top, right, bottom, left
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Talks
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - events
-    design:
-      view: date-title-summary
+  # Section order: Bio -> News -> Publications -> Talks -> Experience
+  # (keep config/_default/menus.yaml in the same order)
   - block: collection
     id: news
     content:
@@ -90,9 +58,41 @@ sections:
     design:
       # Choose a layout view
       view: date-title-summary
-      # Reduce spacing
+  - block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Talks
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - events
+    design:
+      view: date-title-summary
+  - block: resume-experience
+    id: experience # Add an ID to link to this section
+    content:
+      title: Experience # Add a title for the section
+      username: admin
+      # Hugo date format
+      date_format: 'Jan 2006'
+      # Education or Experience section first?
+      is_education_first: false
+    design:
+      # Optional: Adjust spacing specific to this section
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: ["6rem", "0", "6rem", "0"] # top, right, bottom, left
   # - block: cta-card
   #   demo: true # Only display this section in the Hugo Blox Builder demo site
   #   content:
