@@ -1,5 +1,5 @@
 ---
-title: Task-aware image downscaling
+title: Task-Aware Image Downscaling
 authors:
 - Heewon Kim
 - Myungsub Choi
@@ -9,7 +9,8 @@ date: '2018-01-01'
 publishDate: '2025-04-05T13:15:22.781513Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the European conference on computer vision (ECCV)*'
+publication: '*European Conference on Computer Vision (ECCV)*'
+publication_short: '*ECCV 2018*'
 links:
 - type: pdf
   url: https://openaccess.thecvf.com/content_ECCV_2018/papers/Heewon_Kim_Task-Aware_Image_Downscaling_ECCV_2018_paper.pdf

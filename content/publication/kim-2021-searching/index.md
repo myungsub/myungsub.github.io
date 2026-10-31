@@ -1,5 +1,5 @@
 ---
-title: Searching for controllable image restoration networks
+title: Searching for Controllable Image Restoration Networks
 authors:
 - Heewon Kim
 - Sungyong Baik
@@ -10,7 +10,8 @@ date: '2021-01-01'
 publishDate: '2025-04-05T13:15:22.858093Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the IEEE/CVF International Conference on Computer Vision*'
+publication: '*IEEE/CVF International Conference on Computer Vision (ICCV)*'
+publication_short: '*ICCV 2021*'
 links:
 - type: pdf
   url: https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Searching_for_Controllable_Image_Restoration_Networks_ICCV_2021_paper.pdf

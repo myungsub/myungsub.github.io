@@ -10,7 +10,8 @@ date: '2020-01-01'
 publishDate: '2025-04-05T13:15:22.798094Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
+publication: '*AAAI Conference on Artificial Intelligence (AAAI)*'
+publication_short: '*AAAI 2020*'
 links:
 - type: pdf
   url: https://ojs.aaai.org/index.php/AAAI/article/download/6693/6547

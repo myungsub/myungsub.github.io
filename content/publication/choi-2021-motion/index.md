@@ -1,5 +1,5 @@
 ---
-title: Motion-aware dynamic architecture for efficient frame interpolation
+title: Motion-Aware Dynamic Architecture for Efficient Frame Interpolation
 authors:
 - Myungsub Choi
 - Suyoung Lee
@@ -9,7 +9,8 @@ date: '2021-01-01'
 publishDate: '2025-04-05T13:15:22.869783Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the IEEE/CVF International Conference on Computer Vision*'
+publication: '*IEEE/CVF International Conference on Computer Vision (ICCV)*'
+publication_short: '*ICCV 2021*'
 links:
 - type: pdf
   url: https://openaccess.thecvf.com/content/ICCV2021/papers/Choi_Motion-Aware_Dynamic_Architecture_for_Efficient_Frame_Interpolation_ICCV_2021_paper.pdf

@@ -1,5 +1,5 @@
 ---
-title: 'Dynavsr: Dynamic adaptive blind video super-resolution'
+title: 'DynaVSR: Dynamic Adaptive Blind Video Super-Resolution'
 authors:
 - Suyoung Lee
 - Myungsub Choi
@@ -8,8 +8,8 @@ date: '2021-01-01'
 publishDate: '2025-04-05T13:15:22.846987Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the IEEE/CVF winter conference on applications of computer
-  vision*'
+publication: '*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*'
+publication_short: '*WACV 2021*'
 links:
 - type: pdf
   url: https://openaccess.thecvf.com/content/WACV2021/papers/Lee_DynaVSR_Dynamic_Adaptive_Blind_Video_Super-Resolution_WACV_2021_paper.pdf

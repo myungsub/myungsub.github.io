@@ -1,6 +1,6 @@
 ---
 title: 📄 A paper on autofocus is accepted in ICCV 2023.
-summary: Exploring positional characteristics of dual-pixel data for camera autofocus.
+summary: Exploring Positional Characteristics of Dual-Pixel Data for Camera Autofocus.
 date: 2023-07-14
 authors:
   - admin
