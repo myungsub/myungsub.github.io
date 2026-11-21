@@ -1,7 +1,7 @@
 ---
 title: Exploring Positional Characteristics of Dual-Pixel Data for Camera Autofocus
 authors:
-- Myungsub Choi
+- admin
 - Hana Lee
 - Hyong-euk Lee
 date: '2023-01-01'

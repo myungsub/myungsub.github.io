@@ -2,7 +2,7 @@
 title: 'DynaVSR: Dynamic Adaptive Blind Video Super-Resolution'
 authors:
 - Suyoung Lee
-- Myungsub Choi
+- admin
 - Kyoung Mu Lee
 date: '2021-01-01'
 publishDate: '2025-04-05T13:15:22.846987Z'

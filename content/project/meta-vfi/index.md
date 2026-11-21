@@ -1,7 +1,9 @@
 ---
 title: Meta-VFI
 date: 2020-06-26
-external_link: https://myungsub.github.io/meta-interpolation/
+links:
+  - type: site
+    url: https://myungsub.github.io/meta-interpolation/
 tags:
   - CVPR
 ---

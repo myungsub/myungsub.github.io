@@ -2,7 +2,7 @@
 title: 'Cross-Agent Campaign Attribution: Linking Asynchronous Attacks Across LLM Agents'
 authors:
 - SangJin Park
-- Myungsub Choi
+- admin
 - Jineok Kim
 - Minseung Kang
 date: '2026-07-11'

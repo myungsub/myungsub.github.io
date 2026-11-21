@@ -2,7 +2,7 @@
 title: Learning to Learn Task-Adaptive Hyperparameters for Few-Shot Learning
 authors:
 - Sungyong Baik
-- Myungsub Choi
+- admin
 - Janghoon Choi
 - Heewon Kim
 - Kyoung Mu Lee

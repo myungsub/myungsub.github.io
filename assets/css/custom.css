@@ -1,0 +1,7 @@
+/* Site-specific overrides, loaded after the theme CSS (see site_head.html). */
+
+/* Keep the "Made with Hugo Blox" attribution, but hide the promotional
+   "Start free / Build yours" button the footer adds next to it. */
+.powered-by [data-hbx="poweredby_cta"] {
+  display: none;
+}

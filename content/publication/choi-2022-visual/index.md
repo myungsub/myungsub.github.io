@@ -3,7 +3,7 @@ title: Visual Tracking by Adaptive Continual Meta-Learning
 authors:
 - Janghoon Choi
 - Sungyong Baik
-- Myungsub Choi
+- admin
 - Junseok Kwon
 - Kyoung Mu Lee
 date: '2022-01-01'

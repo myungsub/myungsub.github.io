@@ -1,7 +1,7 @@
 ---
 title: Motion-Aware Dynamic Architecture for Efficient Frame Interpolation
 authors:
-- Myungsub Choi
+- admin
 - Suyoung Lee
 - Heewon Kim
 - Kyoung Mu Lee

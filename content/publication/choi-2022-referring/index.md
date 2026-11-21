@@ -1,7 +1,7 @@
 ---
 title: Referring Object Manipulation of Natural Images with Conditional Classifier-Free Guidance
 authors:
-- Myungsub Choi
+- admin
 date: '2022-01-01'
 publishDate: '2025-04-05T13:15:22.906232Z'
 publication_types:

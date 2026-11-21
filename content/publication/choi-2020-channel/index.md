@@ -1,7 +1,7 @@
 ---
 title: Channel Attention Is All You Need for Video Frame Interpolation
 authors:
-- Myungsub Choi
+- admin
 - Heewon Kim
 - Bohyung Han
 - Ning Xu
