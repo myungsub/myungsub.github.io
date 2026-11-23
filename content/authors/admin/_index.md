@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Head of AI
+role: Co-founder & Head of AI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:cms6539@gmail.com'
+    url: 'mailto:myungsub@tynapse.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/MyungsubChoi
@@ -45,38 +45,36 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - AI Trust & Safety
-  - AI Agents
-  - LLM / RAG
+  - AI agent safety and reliability
+  - Runtime guardrails
+  - LLM-as-a-Judge evaluation
   
 education:
-  - area: PhD Electrical Engineering and Computer Science
+  - area: Ph.D. in Electrical Engineering and Computer Science
     institution: Seoul National University
     date_start: 2013-03-01
     date_end: 2021-02-28
     summary: |
-      Integrated Master & Ph.D in EECS. <br>
+      Integrated master's and doctoral program in EECS. <br>
       Thesis: _Test‑Time Adaptation Methods for Video Frame Interpolation_. <br>
       Supervised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/)
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: BEng Electrical Engineering and Computer Science
+  - area: B.S. in Electrical Engineering and Computer Science
     institution: Seoul National University
     date_start: 2009-03-01
     date_end: 2013-02-28
-    summary: |
-      GPA: 3.48/4.30
 
 work:
-  - position: Head of AI
+  - position: Co-founder & Head of AI
     company_name: Tynapse
     company_url: 'https://tynapse.com/'
     company_logo: ''
     date_start: 2025-10-01
     date_end: ''
     summary: |2-
-      Leading research on AI trust and safety, building real-time monitoring and governance solutions for autonomous AI agents.
+      I lead the AI team building Tynapse’s Trust Layer. We develop runtime guardrails that detect hallucinations, monitor changes in agent behavior, and help enterprises enforce compliance policies.
   - position: Staff Engineer
     company_name: Samsung Electronics, DS Division, AI Center (formerly SAIT, AI Research Center)
     company_url: ''
@@ -95,14 +93,12 @@ work:
     date_start: 2021-04-25
     date_end: 2022-04-24
     summary: |
-      Responsibilities include:
-      - Conducted research on vision‑language models for controllable image editing guided by natural language instructions.
-      - Proposed a novel approach using conditional classifier‑free guidance to enhance editing fidelity and semantic alignment.
+      I studied how vision-language models can edit objects in images by following natural language instructions. This work on [conditional classifier-free guidance](/publication/choi-2022-referring/) appeared at ECCV 2022.
   - position: Research Intern
     company_name: Snap Inc.
     company_url: ''
     company_logo: ''
-    date_start: 2018-05-28
+    date_start: 2018-06-01
     date_end: 2018-08-24
     summary: |
       Responsibilities include:
@@ -114,15 +110,18 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: LLM Training & Evaluation
+        description: 'SFT, LoRA, GRPO/RLHF, knowledge distillation, LLM-as-a-Judge, guardrails'
+        icon: academic-cap
       - name: Programming
         description: 'Python, C++, MATLAB'
         # percent: 80
         icon: devicon/python  # code-bracket
       - name: DL Frameworks & Libraries
-        description: 'PyTorch, TensorFlow, Hugging Face'
+        description: 'PyTorch, TensorFlow, Hugging Face Transformers and Diffusers, DeepSpeed'
         icon: devicon/pytorch
       - name: LLM Apps & Deployment
-        description: 'vLLM, FastAPI, ElasticSearch, Gradio'
+        description: 'vLLM, FastAPI, Elasticsearch, Gradio'
         # percent: 100
         icon: circle-stack
   - name: Hobbies
@@ -153,6 +152,26 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Asia-Pacific Top 10 Finalist
+    awarder: NVIDIA Inception Grand Challenge
+    date: '2026-09-22'
+    url: https://www.digitaltoday.co.kr/news/articleView.html?idxno=703771
+    summary: Tynapse reached the regional final in Singapore.
+  - title: Financial Services Commission Chairman's Award
+    awarder: 'Startup OI #Finance'
+    date: '2026-06-24'
+    url: https://kbfg.com/kbinnovationhub/community/hub/detail/1024
+    summary: Awarded jointly to Tynapse and KB Kookmin Bank.
+  - title: Global Top 10 Semifinalist
+    awarder: Snowflake Startup Challenge
+    date: '2026-04-08'
+    url: https://www.snowflake.com/en/blog/startup-challenge-semi-finalists-2026/
+    summary: Snowflake selected Tynapse as one of ten semifinalists worldwide.
+  - title: Global Top 6 Finalist
+    awarder: AWS AI Pitch Competition at NVIDIA GTC
+    date: '2026-03-18'
+    url: /events/aws-ai-pitch-gtc-2026/
+    summary: Tynapse was the only Asia-Pacific team among the six finalists.
   - title: Outstanding Project(Paper) Award
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     # certificate_url: https://www.datacamp.com
@@ -175,6 +194,9 @@ awards:
     # icon: edx
     # summary: |
     #   Learned:
+  - title: Research Award
+    awarder: Hyundai NGV
+    date: '2020-01-01'  # Only the year is recorded in the CV.
   - title: Runner-Up (2nd Place) Award, AIM 2019 Challenge on Video Temporal Super‑Resolution
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     # certificate_url: https://www.datacamp.com
@@ -187,5 +209,6 @@ awards:
 
 ## About Me
 
-I am the Head of AI at [Tynapse](https://tynapse.com/), where I lead research on AI trust and safety for autonomous AI agents. Previously, I was a Staff Engineer at Samsung AI Center, building multimodal RAG applications for internal knowledge management. I received Ph.D. at [Computer Vision Lab](https://cv.snu.ac.kr/), Seoul National University under the supervision of [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/).
-I like discovering new insights from ambiguous problems and translating complex technical ideas into practical solutions.
+I co-founded [Tynapse](https://tynapse.com/), where I lead AI research and development. My team builds runtime guardrails and uses language models as judges to evaluate AI agents in regulated industries, including finance.
+
+Before Tynapse, I built multimodal retrieval-augmented generation systems at Samsung AI Center, researched language-guided image editing at Google Research, and worked on video frame interpolation at Snap. I earned my Ph.D. in EECS at Seoul National University’s [Computer Vision Lab](https://cv.snu.ac.kr/) under [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/).

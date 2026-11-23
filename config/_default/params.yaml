@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Myungsub Choi is the Head of AI at Tynapse, working on AI trust and safety for autonomous AI agents.'
+    description: 'Myungsub Choi is co-founder and Head of AI at Tynapse. He leads research on runtime guardrails and LLM-as-a-Judge evaluation for AI agents in regulated industries.'
     twitter: 'MyungsubChoi'
   analytics:
     google_analytics: ''

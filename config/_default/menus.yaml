@@ -19,6 +19,9 @@ main:
   - name: Experience
     url: /#experience
     weight: 14
+  - name: Awards
+    url: /experience/#awards
+    weight: 15
   - name: Projects
     url: projects/
     weight: 30
